@@ -5,6 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Simple but powerful thread safe dependecy injection container. Easy interface for REgister, Retrieve and Release instances in standar or singleton mode.</Description>
     <PackageProjectUrl>https://github.com/EduardBargues/DependencyInjection</PackageProjectUrl>
+    <NeutralLanguage>English</NeutralLanguage>
   </PropertyGroup>
 
 </Project>
